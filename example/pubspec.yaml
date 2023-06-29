@@ -27,7 +27,7 @@ dependencies:
   get:
     git:
       url: https://github.com/wjprogramer/getx
-      ref: c48d9a2b
+      ref: 891d67f
 
   get_storage:
     path: ../

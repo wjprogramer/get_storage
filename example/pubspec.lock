@@ -92,11 +92,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: c48d9a2b
-      resolved-ref: c48d9a2b778cc08e1c97e45e8048a052f02f82e3
+      ref: "891d67f"
+      resolved-ref: "891d67fba24797c919a615cbd995d2b5accd31d9"
       url: "https://github.com/wjprogramer/getx"
     source: git
-    version: "5.0.0-release-candidate-4"
+    version: "5.0.0-beta.30"
   get_storage:
     dependency: "direct main"
     description:
