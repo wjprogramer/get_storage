@@ -91,11 +91,12 @@ packages:
   get:
     dependency: "direct main"
     description:
-      name: get
-      sha256: e5b2e10bfaf7c95b6399320026cd887dd2b4f53c183b0ad5b1f439d230ce25a8
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.0.0-beta.50"
+      path: "."
+      ref: c48d9a2b
+      resolved-ref: c48d9a2b778cc08e1c97e45e8048a052f02f82e3
+      url: "https://github.com/wjprogramer/getx"
+    source: git
+    version: "5.0.0-release-candidate-4"
   get_storage:
     dependency: "direct main"
     description:
