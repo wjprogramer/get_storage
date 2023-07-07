@@ -30,7 +30,7 @@ dependencies:
   get:
     git:
       url: https://github.com/wjprogramer/getx
-      ref: c47c3f698cb43b1d6ef139190980745579dce09b
+      ref: aa9a90ee47c9ee4dd51786e7399d2e3a5542719f
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
